@@ -1,0 +1,15 @@
+.header {
+  background-image: url("../../img/36858-band-of-brothers-band-of-brothers-banner.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 165px;
+}
+
+.score {
+    color: black;
+    text-align:center;
+    font-weight: bold;
+}
